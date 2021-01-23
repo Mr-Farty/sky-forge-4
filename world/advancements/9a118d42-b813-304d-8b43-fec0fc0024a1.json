@@ -208,6 +208,7 @@
       "Completed Better With Mods§r": "2021-01-19 23:28:42 +0200",
       "Completed Yo-Yo Ma§r": "2021-01-20 15:10:28 +0200",
       "Completed Up in Arms§r": "2021-01-20 14:41:28 +0200",
+      "Completed Armor 404§r": "2021-01-23 21:54:58 +0200",
       "Completed Tim the Tool Man Taylor§r": "2021-01-19 18:42:40 +0200",
       "Completed Pattern Me, Sir§r": "2021-01-19 22:18:01 +0200",
       "Completed Forging Ahead§r": "2021-01-19 23:03:49 +0200",
@@ -355,6 +356,7 @@
       "Completed Dead Cells§r": "2021-01-20 13:42:48 +0200",
       "Completed What\u0027s the Matter with Overworldians?§r": "2021-01-20 13:42:46 +0200",
       "Completed Jacob\u0027s Ladder§r": "2021-01-20 13:41:51 +0200",
+      "Completed Withered Away§r": "2021-01-23 21:34:57 +0200",
       "Completed Bring Me to Life§r": "2021-01-20 13:42:52 +0200"
     },
     "done": false
@@ -402,6 +404,12 @@
   "twilightforest:alt/entities/swarm_spider": {
     "criteria": {
       "hurt_by_indirect": "2021-01-19 21:37:06 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/lifedrain_scepter": {
+    "criteria": {
+      "scepter": "2021-01-23 22:28:49 +0200"
     },
     "done": true
   },
@@ -487,6 +495,7 @@
       "Completed Nether Here Nor There§r": "2021-01-18 22:26:30 +0200",
       "Completed Lost and Found§r": "2021-01-20 19:17:04 +0200",
       "Completed You\u0027re Boron Me§r": "2021-01-18 21:58:46 +0200",
+      "Completed Light up Your Night§r": "2021-01-23 22:24:28 +0200",
       "Completed You\u0027re Tritanium to Bring Me Down§r": "2021-01-18 21:55:53 +0200",
       "Completed Floaty McFloaty§r": "2021-01-20 20:15:23 +0200",
       "Completed Compact Your World§r": "2021-01-20 21:41:47 +0200",
@@ -570,6 +579,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2021-01-23 22:20:53 +0200"
+    },
+    "done": true
+  },
   "sf4:age_farming/brownmulch": {
     "criteria": {
       "Obtain Brown Mulch": "2021-01-18 20:15:08 +0200"
@@ -642,6 +657,12 @@
   "sf4:age_enhancement/levelup": {
     "criteria": {
       "Level Up Tinkers\u0027 Pickaxe": "2021-01-20 13:15:45 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hedge_spider": {
+    "criteria": {
+      "slay": "2021-01-23 22:21:33 +0200"
     },
     "done": true
   },
@@ -1153,6 +1174,12 @@
     },
     "done": true
   },
+  "sf4:age_exploration/magnesiumore": {
+    "criteria": {
+      "Obtain Magnesium Ore": "2021-01-23 22:24:28 +0200"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/watercollection": {
     "criteria": {
       "Right Click Cauldron with Water Inside": "2021-01-18 19:43:40 +0200",
@@ -1232,6 +1259,7 @@
       "Prestige Mode Disabled": "2021-01-18 16:13:18 +0200",
       "Completed Lost and Found§r": "2021-01-20 19:17:04 +0200",
       "Completed You\u0027re Boron Me§r": "2021-01-18 21:58:46 +0200",
+      "Completed Light up Your Night§r": "2021-01-23 22:24:28 +0200",
       "Completed You\u0027re Tritanium to Bring Me Down§r": "2021-01-18 21:55:53 +0200",
       "Completed Floaty McFloaty§r": "2021-01-20 20:15:23 +0200",
       "Completed Enter the Twilight§r": "2021-01-18 21:38:29 +0200",
@@ -1377,6 +1405,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2021-01-23 22:21:12 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/silver": {
     "criteria": {
       "Completed Root": "2021-01-18 16:13:18 +0200",
@@ -1399,6 +1433,15 @@
   "sf4:age_power/twilightmatter": {
     "criteria": {
       "Obtain Twilight Matter": "2021-01-20 13:42:49 +0200"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/glitcharmor": {
+    "criteria": {
+      "Obtain Glitch Infused Helmet": "2021-01-23 21:54:52 +0200",
+      "Obtain Glitch Infused Chestplate": "2021-01-23 21:54:49 +0200",
+      "Obtain Glitch Infused Leggings": "2021-01-23 21:54:58 +0200",
+      "Obtain Glitch Infused Boots": "2021-01-23 21:54:56 +0200"
     },
     "done": true
   },
@@ -1607,6 +1650,7 @@
       "Completed Better With Mods§r": "2021-01-19 23:28:42 +0200",
       "Completed Yo-Yo Ma§r": "2021-01-20 15:10:28 +0200",
       "Completed Up in Arms§r": "2021-01-20 14:41:28 +0200",
+      "Completed Armor 404§r": "2021-01-23 21:54:58 +0200",
       "Completed Tim the Tool Man Taylor§r": "2021-01-19 18:42:40 +0200",
       "Completed Pattern Me, Sir§r": "2021-01-19 22:18:01 +0200",
       "Completed Forging Ahead§r": "2021-01-19 23:03:49 +0200",
@@ -1740,6 +1784,7 @@
       "Completed Dead Cells§r": "2021-01-20 13:42:48 +0200",
       "Completed What\u0027s the Matter with Overworldians?§r": "2021-01-20 13:42:46 +0200",
       "Completed Jacob\u0027s Ladder§r": "2021-01-20 13:41:51 +0200",
+      "Completed Withered Away§r": "2021-01-23 21:34:57 +0200",
       "Completed Bring Me to Life§r": "2021-01-20 13:42:52 +0200"
     },
     "done": false
@@ -1806,6 +1851,12 @@
     },
     "done": true
   },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2021-01-23 22:21:33 +0200"
+    },
+    "done": true
+  },
   "sf4:age_storage/woodenhopper": {
     "criteria": {
       "Obtain Wooden Hopper": "2021-01-18 21:37:53 +0200"
@@ -1818,6 +1869,12 @@
       "Placed Oak Planks": "2021-01-19 16:36:50 +0200"
     },
     "done": false
+  },
+  "sf4:age_power/pristinewitherskeletonmatter": {
+    "criteria": {
+      "Obtain Pristine Wither Skeleton Matter": "2021-01-23 21:34:57 +0200"
+    },
+    "done": true
   },
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
@@ -1838,6 +1895,7 @@
   },
   "sf4:age_allthethingsomglol/pristinematter": {
     "criteria": {
+      "Pristine Wither Skeleton Matter": "2021-01-23 21:34:57 +0200",
       "Pristine Zombie Matter": "2021-01-20 13:42:48 +0200"
     },
     "done": false
