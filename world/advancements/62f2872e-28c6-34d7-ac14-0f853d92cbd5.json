@@ -28,6 +28,7 @@
       "Completed Break a Leg§r": "2021-01-18 16:52:42 +0200",
       "Completed This Tree is Forever§r": "2021-01-19 18:00:17 +0200",
       "Completed Blue Man Group§r": "2021-01-18 19:19:18 +0200",
+      "Completed Hotbois§r": "2021-01-23 13:50:38 +0200",
       "Completed Palm Trees§r": "2021-01-18 17:11:50 +0200",
       "Completed Root": "2021-01-18 16:15:09 +0200",
       "Completed It\u0027s Tin This Pack§r": "2021-01-21 15:38:06 +0200",
@@ -86,6 +87,12 @@
       "Obtain String": "2021-01-18 17:14:58 +0200"
     },
     "done": true
+  },
+  "compactmachines:test/7x7x7": {
+    "criteria": {
+      "Obtain Netherrack": "2021-01-23 14:11:02 +0200"
+    },
+    "done": false
   },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
@@ -203,9 +210,21 @@
     },
     "done": false
   },
+  "sf4:age_exploration/nether": {
+    "criteria": {
+      "Entered Nether": "2021-01-23 14:10:35 +0200"
+    },
+    "done": true
+  },
   "sf4:age_storage/energyacceptor": {
     "criteria": {
       "Obtain Energy Acceptor": "2021-01-20 00:11:10 +0200"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/craftingupgrade": {
+    "criteria": {
+      "Eat Cyclic Crafting Upgrade": "2021-01-23 15:01:10 +0200"
     },
     "done": true
   },
@@ -222,7 +241,9 @@
       "Completed Pattern Me, Sir§r": "2021-01-19 22:53:34 +0200",
       "Completed It\u0027s Over 20!§r": "2021-01-21 14:35:07 +0200",
       "Completed Age of Enhancement§r": "2021-01-18 16:28:21 +0200",
-      "Completed An Enchanting Evening§r": "2021-01-21 14:19:28 +0200"
+      "Completed Edible Arrangements§r": "2021-01-23 15:01:10 +0200",
+      "Completed An Enchanting Evening§r": "2021-01-21 14:19:28 +0200",
+      "Completed Storage Wars§r": "2021-01-23 15:00:46 +0200"
     },
     "done": false
   },
@@ -243,6 +264,7 @@
       "Completed Break a Leg§r": "2021-01-18 16:52:42 +0200",
       "Completed This Tree is Forever§r": "2021-01-19 18:00:17 +0200",
       "Completed Blue Man Group§r": "2021-01-18 19:19:18 +0200",
+      "Completed Hotbois§r": "2021-01-23 13:50:38 +0200",
       "Completed Palm Trees§r": "2021-01-18 17:11:50 +0200",
       "Completed Root": "2021-01-18 16:15:09 +0200",
       "Completed It\u0027s Tin This Pack§r": "2021-01-21 15:38:06 +0200",
@@ -290,6 +312,7 @@
       "Completed Age of Exploration§r": "2021-01-18 16:28:21 +0200",
       "Completed Come Fly With Me§r": "2021-01-21 14:15:33 +0200",
       "Completed No Cake Like Home§r": "2021-01-19 21:25:02 +0200",
+      "Completed Nether Here Nor There§r": "2021-01-23 14:10:35 +0200",
       "Prestige Mode Disabled": "2021-01-18 16:28:21 +0200",
       "Completed Floaty McFloaty§r": "2021-01-20 20:15:44 +0200",
       "Completed Enter the Twilight§r": "2021-01-19 21:25:02 +0200",
@@ -407,9 +430,10 @@
   },
   "sf4:age1/lava": {
     "criteria": {
-      "Completed Root": "2021-01-18 16:15:09 +0200"
+      "Completed Root": "2021-01-18 16:15:09 +0200",
+      "Obtain Lava Iron Bucket": "2021-01-23 13:50:38 +0200"
     },
-    "done": false
+    "done": true
   },
   "pacifist:pacifist_run/lose": {
     "criteria": {
@@ -563,6 +587,7 @@
       "Completed Age of Exploration§r": "2021-01-18 16:28:21 +0200",
       "Completed Come Fly With Me§r": "2021-01-21 14:15:33 +0200",
       "Completed No Cake Like Home§r": "2021-01-19 21:25:02 +0200",
+      "Completed Nether Here Nor There§r": "2021-01-23 14:10:35 +0200",
       "Completed Floaty McFloaty§r": "2021-01-20 20:15:44 +0200",
       "Completed Compact Your World§r": "2021-01-21 14:09:00 +0200",
       "Completed Even Scotty Doesn\u0027t Know§r": "2021-01-20 00:15:48 +0200"
@@ -739,6 +764,7 @@
   },
   "tutorial:tutorial/copied/water": {
     "criteria": {
+      "Obtain Water in an Iron Bucket": "2021-01-23 13:50:50 +0200",
       "Obtain Water in a Clay Bucket": "2021-01-18 17:32:02 +0200"
     },
     "done": false
@@ -795,6 +821,12 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/lava": {
+    "criteria": {
+      "Obtain Lava Iron Bucket": "2021-01-23 13:50:38 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/sand": {
     "criteria": {
       "Completed Root": "2021-01-18 16:15:09 +0200",
@@ -827,7 +859,9 @@
       "Completed Pattern Me, Sir§r": "2021-01-19 22:53:34 +0200",
       "Completed It\u0027s Over 20!§r": "2021-01-21 14:35:07 +0200",
       "Completed Age of Enhancement§r": "2021-01-18 16:28:21 +0200",
-      "Completed An Enchanting Evening§r": "2021-01-21 14:19:28 +0200"
+      "Completed Edible Arrangements§r": "2021-01-23 15:01:10 +0200",
+      "Completed An Enchanting Evening§r": "2021-01-21 14:19:28 +0200",
+      "Completed Storage Wars§r": "2021-01-23 15:00:46 +0200"
     },
     "done": false
   },
@@ -956,6 +990,12 @@
     "criteria": {
       "chestplate": "2021-01-20 00:15:48 +0200",
       "leggings": "2021-01-20 00:15:48 +0200"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/inventoryupgrade": {
+    "criteria": {
+      "Eat Cyclic Inventory Upgrade": "2021-01-23 15:00:46 +0200"
     },
     "done": true
   },
