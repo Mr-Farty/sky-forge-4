@@ -79,6 +79,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/foods/maze_wafer": {
+    "criteria": {
+      "food": "2021-01-24 21:22:19 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/nonpacifist": {
     "criteria": {
       "superflat2": "2021-01-18 16:13:18 +0200",
@@ -86,6 +92,12 @@
       "Completed Root": "2021-01-18 16:13:18 +0200"
     },
     "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "chest": "2021-01-24 21:03:36 +0200"
+    },
+    "done": false
   },
   "sf4:age_storage/logicpress": {
     "criteria": {
@@ -96,6 +108,12 @@
   "sf4:age_power/wirelesscharger": {
     "criteria": {
       "Obtain Wireless Charger": "2021-01-20 13:54:41 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2021-01-24 22:22:14 +0200"
     },
     "done": true
   },
@@ -116,6 +134,12 @@
   "sf4:age_storage/bdsandmupgrade5": {
     "criteria": {
       "Obtain Ore Dictionary Storage Upgrade": "2021-01-20 13:43:35 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/yeti_alpha": {
+    "criteria": {
+      "hurt": "2021-01-24 22:22:34 +0200"
     },
     "done": true
   },
@@ -148,6 +172,12 @@
   "sf4:age_storage/bdsandmmetalcrate": {
     "criteria": {
       "Obtain Metal Crate": "2021-01-19 23:22:04 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/maze_slime": {
+    "criteria": {
+      "slay": "2021-01-24 22:00:36 +0200"
     },
     "done": true
   },
@@ -298,6 +328,12 @@
     },
     "done": false
   },
+  "twilightforest:alt/treasures/charms": {
+    "criteria": {
+      "1": "2021-01-24 20:42:26 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/crushing_tub": {
     "criteria": {
       "Obtain Crushing Tub": "2021-01-18 19:15:22 +0200",
@@ -316,6 +352,12 @@
       "Obtain Oak Wood Planks": "2021-01-18 17:44:58 +0200"
     },
     "done": false
+  },
+  "twilightforest:alt/entities/naga": {
+    "criteria": {
+      "hurt": "2021-01-24 21:17:37 +0200"
+    },
+    "done": true
   },
   "tutorial:tutorial/woodencrook": {
     "criteria": {
@@ -368,6 +410,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2021-01-24 21:19:22 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/cobblestone": {
     "criteria": {
       "Completed Root": "2021-01-18 16:13:18 +0200",
@@ -385,7 +433,8 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2021-01-19 13:58:56 +0200",
-      "twilight_oak_log": "2021-01-18 22:14:58 +0200"
+      "twilight_oak_log": "2021-01-18 22:14:58 +0200",
+      "twilight_oak_sapling": "2021-01-24 21:17:41 +0200"
     },
     "done": false
   },
@@ -413,11 +462,29 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dense_twilight_forest": {
+    "criteria": {
+      "discover": "2021-01-24 21:51:23 +0200"
+    },
+    "done": true
+  },
   "tutorial:tutorial/dryingrack": {
     "criteria": {
       "Obtain Oak Wood Planks": "2021-01-18 19:14:26 +0200"
     },
     "done": false
+  },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "0": "2021-01-24 22:51:07 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/troll_lairs": {
+    "criteria": {
+      "discover": "2021-01-24 21:14:07 +0200"
+    },
+    "done": true
   },
   "sf4:age1/acorn/dirt": {
     "criteria": {
@@ -474,9 +541,21 @@
     },
     "done": false
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2021-01-24 22:17:53 +0200"
+    },
+    "done": false
+  },
   "sf4:age_exploration/overworldcake": {
     "criteria": {
       "Obtain Overworld Cake": "2021-01-18 21:23:08 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/magic_map": {
+    "criteria": {
+      "magic_map_focus": "2021-01-24 22:51:07 +0200"
     },
     "done": true
   },
@@ -547,6 +626,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2021-01-24 22:20:57 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/iron_bucket": {
     "criteria": {
       "Completed Root": "2021-01-18 16:13:18 +0200",
@@ -605,9 +690,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2021-01-19 21:47:12 +0200"
+      "kill_lich": "2021-01-19 21:47:12 +0200",
+      "trophy_pedestal": "2021-01-24 21:21:32 +0200"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/dirtsapling": {
     "criteria": {
@@ -682,6 +768,12 @@
     "criteria": {
       "Obtain Diamond": "2021-01-18 20:57:56 +0200",
       "Completed Root": "2021-01-18 16:13:18 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/blockchain_goblin": {
+    "criteria": {
+      "hurt": "2021-01-24 21:21:48 +0200"
     },
     "done": true
   },
@@ -775,6 +867,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "chestplate": "2021-01-24 21:04:07 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/knight_phantom": {
+    "criteria": {
+      "hurt": "2021-01-24 21:48:55 +0200"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/string": {
     "criteria": {
       "Obtain Cottonwood Sapling": "2021-01-18 19:15:50 +0200",
@@ -819,6 +923,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/arctic_armor_set": {
+    "criteria": {
+      "chestplate": "2021-01-24 21:03:51 +0200"
+    },
+    "done": true
+  },
   "sf4:age_exploration/dragonkill": {
     "criteria": {
       "Enter Custom End Dimension": "2021-01-18 21:38:28 +0200",
@@ -850,6 +960,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/minotaur": {
+    "criteria": {
+      "hurt": "2021-01-24 21:55:01 +0200"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/ironingot": {
     "criteria": {
       "Obtain Iron Ingot": "2021-01-18 19:21:28 +0200"
@@ -859,6 +975,12 @@
   "tutorial:tutorial/copied/ironbucket": {
     "criteria": {
       "Obtain Iron Bucket": "2021-01-18 19:41:53 +0200"
+    },
+    "done": false
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2021-01-24 22:22:59 +0200"
     },
     "done": false
   },
@@ -878,6 +1000,12 @@
     "criteria": {
       "Completed Root": "2021-01-18 16:13:18 +0200",
       "Obtain Drying Rack": "2021-01-18 19:14:26 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/meef": {
+    "criteria": {
+      "raw": "2021-01-24 21:55:06 +0200"
     },
     "done": true
   },
@@ -921,6 +1049,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2021-01-24 21:15:23 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/bunny": {
     "criteria": {
       "slay": "2021-01-19 14:09:38 +0200"
@@ -945,9 +1079,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/phantom_armor_set": {
+    "criteria": {
+      "chestplate": "2021-01-24 21:49:36 +0200"
+    },
+    "done": true
+  },
   "sf4:age_exploration/cobaltore": {
     "criteria": {
       "Obtain Cobalt Ore": "2021-01-19 19:04:36 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/yeti": {
+    "criteria": {
+      "slay": "2021-01-24 22:23:32 +0200"
     },
     "done": true
   },
@@ -955,6 +1101,12 @@
     "criteria": {
       "Completed Root": "2021-01-18 16:13:18 +0200",
       "Obtain Blue Slime Sapling": "2021-01-19 14:46:24 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/minoshroom": {
+    "criteria": {
+      "hurt_by_indirect": "2021-01-24 22:17:38 +0200"
     },
     "done": true
   },
@@ -1060,6 +1212,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/minotaur_axe_diamond": {
+    "criteria": {
+      "axe": "2021-01-24 22:18:11 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/shield_scepter": {
     "criteria": {
       "scepter": "2021-01-19 21:47:13 +0200"
@@ -1081,6 +1239,12 @@
   "twilightforest:alt/treasures/foods/vension": {
     "criteria": {
       "raw": "2021-01-18 22:16:40 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/thornlands": {
+    "criteria": {
+      "discover": "2021-01-24 22:29:05 +0200"
     },
     "done": true
   },
@@ -1113,6 +1277,18 @@
       "Completed ɹǝddoH§r": "2021-01-18 21:03:28 +0200"
     },
     "done": false
+  },
+  "twilightforest:alt/treasures/minotaur_axes": {
+    "criteria": {
+      "diamond": "2021-01-24 22:18:11 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/snowy_forest": {
+    "criteria": {
+      "discover": "2021-01-24 22:22:03 +0200"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/slimesapling": {
     "criteria": {
@@ -1150,6 +1326,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dark_forest_center": {
+    "criteria": {
+      "discover": "2021-01-24 21:33:06 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/wraith": {
     "criteria": {
       "hurt_by_indirect": "2021-01-18 21:57:58 +0200"
@@ -1168,6 +1350,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/ice_bomb": {
+    "criteria": {
+      "ice_bomb": "2021-01-24 22:23:10 +0200"
+    },
+    "done": true
+  },
   "sf4:age_storage/upper": {
     "criteria": {
       "Obtain Upper": "2021-01-18 21:03:28 +0200"
@@ -1177,6 +1365,18 @@
   "sf4:age_exploration/magnesiumore": {
     "criteria": {
       "Obtain Magnesium Ore": "2021-01-23 22:24:28 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2021-01-24 21:49:28 +0200"
+    },
+    "done": false
+  },
+  "twilightforest:alt/treasures/yeti_armor_set": {
+    "criteria": {
+      "chestplate": "2021-01-24 21:04:04 +0200"
     },
     "done": true
   },
@@ -1240,6 +1440,12 @@
       "Completed Clay Aiken§r": "2021-01-18 17:48:16 +0200",
       "Completed I\u0027ve Been Slimed§r": "2021-01-18 21:11:39 +0200",
       "Completed I Don\u0027t Know§r": "2021-01-19 14:46:24 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/helmet_crab": {
+    "criteria": {
+      "slay": "2021-01-24 21:21:51 +0200"
     },
     "done": true
   },
@@ -1418,6 +1624,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "ingredient": "2021-01-24 21:25:56 +0200"
+    },
+    "done": true
+  },
   "sf4:age_storage/calculationpress": {
     "criteria": {
       "Obtain Calculation Press": "2021-01-20 13:43:17 +0200"
@@ -1433,6 +1645,12 @@
   "sf4:age_power/twilightmatter": {
     "criteria": {
       "Obtain Twilight Matter": "2021-01-20 13:42:49 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/goblin_knight": {
+    "criteria": {
+      "hurt_by_indirect": "2021-01-24 21:22:17 +0200"
     },
     "done": true
   },
@@ -1464,9 +1682,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/kobold": {
+    "criteria": {
+      "slay": "2021-01-24 21:21:46 +0200"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_meef": "2021-01-24 21:55:06 +0200",
       "raw_venison": "2021-01-18 22:16:40 +0200",
+      "meef_stroganoff": "2021-01-24 22:17:53 +0200",
+      "maze_wafer": "2021-01-24 21:22:18 +0200",
       "cooked_venison": "2021-01-19 13:57:44 +0200"
     },
     "done": false
@@ -1530,6 +1757,14 @@
   "sf4:age_storage/engineeringpress": {
     "criteria": {
       "Obtain Engineering Press": "2021-01-20 13:43:15 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2021-01-24 21:21:32 +0200",
+      "knight": "2021-01-24 21:49:02 +0200",
+      "structure": "2021-01-24 21:49:28 +0200"
     },
     "done": true
   },
@@ -1608,6 +1843,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2021-01-24 21:53:49 +0200"
+    },
+    "done": true
+  },
   "sf4:age_exploration/skygriddragonkill": {
     "criteria": {
       "Completed Age of Exploration§r": "2021-01-18 16:13:18 +0200"
@@ -1616,15 +1857,34 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2021-01-24 22:17:53 +0200",
       "kill_lich": "2021-01-19 21:47:12 +0200"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_blood_tears": {
+    "criteria": {
+      "armor": "2021-01-24 21:03:36 +0200"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/coalsapling": {
     "criteria": {
       "Obtain Coal Sapling": "2021-01-18 18:04:56 +0200"
     },
     "done": false
+  },
+  "twilightforest:alt/treasures/fiery_armor_set": {
+    "criteria": {
+      "chestplate": "2021-01-24 21:03:36 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2021-01-24 21:21:37 +0200"
+    },
+    "done": true
   },
   "sf4:age1/sapling/sand": {
     "criteria": {
@@ -1710,6 +1970,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/phantom_armor_worn": {
+    "criteria": {
+      "helmet": "2021-01-24 22:38:10 +0200"
+    },
+    "done": true
+  },
   "sf4:age_exploration/thoriumore": {
     "criteria": {
       "Obtain Thorium Ore": "2021-01-19 13:45:00 +0200"
@@ -1729,6 +1995,12 @@
       "brokeLog": "2021-01-18 17:47:54 +0200"
     },
     "done": false
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2021-01-24 22:51:07 +0200"
+    },
+    "done": true
   },
   "sf4:age1/water": {
     "criteria": {
@@ -1750,15 +2022,17 @@
       "Haste": "2021-01-19 23:29:01 +0200",
       "Luck": "2021-01-20 14:18:32 +0200",
       "Knockback": "2021-01-20 00:13:26 +0200",
-      "Necrotic": "2021-01-20 14:58:19 +0200"
+      "Necrotic": "2021-01-20 14:58:19 +0200",
+      "Reinforced": "2021-01-24 22:47:22 +0200"
     },
     "done": false
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2021-01-19 21:47:12 +0200"
+      "previous_progression": "2021-01-19 21:47:12 +0200",
+      "yeti": "2021-01-24 22:22:59 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_storage/simplestoragemaster": {
     "criteria": {
@@ -1832,10 +2106,22 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/labyrinth": {
+    "criteria": {
+      "discover": "2021-01-24 21:54:08 +0200"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
       "kill_lich": "2021-01-19 21:47:12 +0200",
       "kill_naga": "2021-01-19 13:31:19 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charm_of_keeping": {
+    "criteria": {
+      "1": "2021-01-24 20:42:26 +0200"
     },
     "done": true
   },
@@ -1854,6 +2140,12 @@
   "twilightforest:hedge": {
     "criteria": {
       "hedge_spider": "2021-01-23 22:21:33 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2021-01-24 21:14:03 +0200"
     },
     "done": true
   },

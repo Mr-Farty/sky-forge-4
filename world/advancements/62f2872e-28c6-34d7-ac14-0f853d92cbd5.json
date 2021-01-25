@@ -49,6 +49,7 @@
       "Completed Amber is the Color of my Dinosaur§r": "2021-01-19 23:32:40 +0200",
       "Completed SkyFactory 4§r": "2021-01-18 16:15:09 +0200",
       "Completed Don\u0027t Sieve on Me§r": "2021-01-18 16:50:33 +0200",
+      "Completed Bubble, Bubble§r": "2021-01-24 21:18:47 +0200",
       "Completed One Shiny Boi§r": "2021-01-19 20:52:03 +0200",
       "Completed Money Grows on Trees§r": "2021-01-19 18:00:04 +0200",
       "Completed Slop in the Bucket§r": "2021-01-18 17:31:39 +0200",
@@ -85,6 +86,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/phantom_armor_set": {
+    "criteria": {
+      "chestplate": "2021-01-24 21:55:12 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/slime": {
     "criteria": {
       "Completed Root": "2021-01-18 16:15:09 +0200",
@@ -97,6 +104,12 @@
       "Completed Root": "2021-01-18 16:15:09 +0200",
       "Obtain Cottonwood Sapling": "2021-01-18 17:17:09 +0200",
       "Obtain String": "2021-01-18 17:14:58 +0200"
+    },
+    "done": true
+  },
+  "sf4:age_power/upgradeablegenerators": {
+    "criteria": {
+      "Obtain Simple Upgradable Geothermal Generator": "2021-01-24 21:27:26 +0200"
     },
     "done": true
   },
@@ -304,6 +317,7 @@
       "Completed Amber is the Color of my Dinosaur§r": "2021-01-19 23:32:40 +0200",
       "Completed SkyFactory 4§r": "2021-01-18 16:15:09 +0200",
       "Completed Don\u0027t Sieve on Me§r": "2021-01-18 16:50:33 +0200",
+      "Completed Bubble, Bubble§r": "2021-01-24 21:18:47 +0200",
       "Completed One Shiny Boi§r": "2021-01-19 20:52:03 +0200",
       "Completed Money Grows on Trees§r": "2021-01-19 18:00:04 +0200",
       "Completed Slop in the Bucket§r": "2021-01-18 17:31:39 +0200",
@@ -411,9 +425,10 @@
   },
   "sf4:age1/cauldron": {
     "criteria": {
-      "Completed Root": "2021-01-18 16:15:09 +0200"
+      "Completed Root": "2021-01-18 16:15:09 +0200",
+      "Obtain a Cauldron": "2021-01-24 21:18:47 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/cobblestone_generator": {
     "criteria": {
@@ -519,10 +534,13 @@
   "sf4:age_power/completenoprestige": {
     "criteria": {
       "Prestige Mode Disabled": "2021-01-18 16:28:21 +0200",
+      "Completed Generator, I Hardly Know Her§r": "2021-01-24 20:42:48 +0200",
+      "Completed Clicker Hero§r": "2021-01-24 22:01:57 +0200",
       "Completed Package Control§r": "2021-01-23 19:53:47 +0200",
       "Completed Need iiii Speed§r": "2021-01-19 20:56:02 +0200",
       "Completed Age of Power§r": "2021-01-18 16:28:21 +0200",
-      "Completed Go, Go, Building Gadget§r": "2021-01-21 14:45:31 +0200"
+      "Completed Go, Go, Building Gadget§r": "2021-01-21 14:45:31 +0200",
+      "Completed Level Up!§r": "2021-01-24 21:27:26 +0200"
     },
     "done": false
   },
@@ -542,6 +560,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_log": "2021-01-24 20:09:18 +0200",
       "twilight_oak_sapling": "2021-01-23 21:48:05 +0200"
     },
     "done": false
@@ -557,6 +576,12 @@
       "discover": "2021-01-23 21:28:22 +0200"
     },
     "done": true
+  },
+  "sf4:age_enhancement/glitcharmor": {
+    "criteria": {
+      "Obtain Glitch Infused Boots": "2021-01-24 20:38:29 +0200"
+    },
+    "done": false
   },
   "sf4:age1/amber/tin": {
     "criteria": {
@@ -785,6 +810,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/cauldron": {
+    "criteria": {
+      "Obtain a Cauldron": "2021-01-24 21:18:47 +0200"
+    },
+    "done": false
+  },
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2021-01-18 16:35:19 +0200",
@@ -951,6 +982,12 @@
     },
     "done": true
   },
+  "sf4:age_power/simplegenerator": {
+    "criteria": {
+      "Obtain Simple Culinary Generator": "2021-01-24 20:42:48 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/iron": {
     "criteria": {
       "Completed Root": "2021-01-18 16:15:09 +0200",
@@ -962,6 +999,12 @@
     "criteria": {
       "Completed Root": "2021-01-18 16:15:09 +0200",
       "Obtain Stone Crook": "2021-01-18 17:51:44 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/phantom_armor_worn": {
+    "criteria": {
+      "chestplate": "2021-01-24 21:55:38 +0200"
     },
     "done": true
   },
@@ -1042,10 +1085,13 @@
   },
   "sf4:age_power/complete": {
     "criteria": {
+      "Completed Generator, I Hardly Know Her§r": "2021-01-24 20:42:48 +0200",
+      "Completed Clicker Hero§r": "2021-01-24 22:01:57 +0200",
       "Completed Package Control§r": "2021-01-23 19:53:47 +0200",
       "Completed Need iiii Speed§r": "2021-01-19 20:56:02 +0200",
       "Completed Age of Power§r": "2021-01-18 16:28:21 +0200",
-      "Completed Go, Go, Building Gadget§r": "2021-01-21 14:45:31 +0200"
+      "Completed Go, Go, Building Gadget§r": "2021-01-21 14:45:31 +0200",
+      "Completed Level Up!§r": "2021-01-24 21:27:26 +0200"
     },
     "done": false
   },
@@ -1087,6 +1133,13 @@
     },
     "done": false
   },
+  "compactmachines:test/5x5x52": {
+    "criteria": {
+      "Craft Simple Culinary Generator": "2021-01-24 20:42:48 +0200",
+      "Craft Simple Geothermal Generator": "2021-01-24 21:20:32 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/amber/iron": {
     "criteria": {
       "Completed Root": "2021-01-18 16:15:09 +0200",
@@ -1114,6 +1167,12 @@
       "Obtain Iron Bucket": "2021-01-20 00:15:48 +0200"
     },
     "done": false
+  },
+  "sf4:age_power/autoclicker": {
+    "criteria": {
+      "Obtain Auto Clicker": "2021-01-24 22:01:57 +0200"
+    },
+    "done": true
   },
   "twilightforest:progress_lich": {
     "criteria": {
