@@ -272,6 +272,12 @@
     },
     "done": false
   },
+  "sf4:age_exploration/huntingdimension": {
+    "criteria": {
+      "Entered Hunting Dimension": "2021-01-25 23:32:34 +0200"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/completenoprestige": {
     "criteria": {
       "Prestige Mode Disabled": "2021-01-18 16:28:21 +0200",
@@ -356,7 +362,8 @@
       "Completed Floaty McFloaty§r": "2021-01-20 20:15:44 +0200",
       "Completed Enter the Twilight§r": "2021-01-19 21:25:02 +0200",
       "Completed Compact Your World§r": "2021-01-21 14:09:00 +0200",
-      "Completed Even Scotty Doesn\u0027t Know§r": "2021-01-20 00:15:48 +0200"
+      "Completed Even Scotty Doesn\u0027t Know§r": "2021-01-20 00:15:48 +0200",
+      "Completed Let the Hunt Begin§r": "2021-01-25 23:32:34 +0200"
     },
     "done": false
   },
@@ -665,7 +672,8 @@
       "Completed Nether Here Nor There§r": "2021-01-23 14:10:35 +0200",
       "Completed Floaty McFloaty§r": "2021-01-20 20:15:44 +0200",
       "Completed Compact Your World§r": "2021-01-21 14:09:00 +0200",
-      "Completed Even Scotty Doesn\u0027t Know§r": "2021-01-20 00:15:48 +0200"
+      "Completed Even Scotty Doesn\u0027t Know§r": "2021-01-20 00:15:48 +0200",
+      "Completed Let the Hunt Begin§r": "2021-01-25 23:32:34 +0200"
     },
     "done": false
   },
